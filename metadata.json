@@ -1,0 +1,6 @@
+{
+  "name": "BRAIN BATTLE – Interactive Brain Challenge",
+  "description": "Challenge Your Mind, Unlock Your Intelligence! An interactive rule-based brain challenge chatbot featuring riddles, puzzles, math, logic, general knowledge, and memory tests.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
